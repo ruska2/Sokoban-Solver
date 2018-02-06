@@ -1,2 +1,2 @@
 # SokobanSolver
-Solver for sockoban game, with minisat
+Solver for sokoban game, using minisat.
