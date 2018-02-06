@@ -45,7 +45,7 @@ do
         then
             echo "SATISFIABLE for $a states"
             python trueConverter.py
-            echo "TRUE LITERAS:"
+            echo "TRUE LITERALS:"
             cat "finalresult"
 	    echo "Would like to see vizualization of result?[y/n]:"
 	    read answer
